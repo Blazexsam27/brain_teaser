@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51089065389",
+    "project_id": "brainteaser-6e148",
+    "storage_bucket": "brainteaser-6e148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51089065389:android:a7711482069e6a64318d24",
+        "android_client_info": {
+          "package_name": "com.jass.brain_teaser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51089065389-r15cjlgl81rigssqb5m36p4tuns467t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrLitNhUt705VcD2A6ziOvyjAkrQE8cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51089065389-r15cjlgl81rigssqb5m36p4tuns467t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
